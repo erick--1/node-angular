@@ -1,0 +1,72 @@
+body.index {
+    text-align: center;
+    color: black;
+    font-family: monospace;
+}
+
+body.index img {
+    height: 180px;
+    width: 500px;
+}
+
+img#angular {
+    height: 200px;
+    width: 200px;
+}
+
+img#node {
+    height: 100px;
+    width: 200px;
+}
+
+body.template {
+    padding-left: 100px;
+    font-family: monospace;
+}
+
+nav.template {
+    width: inherit;
+    display: inline-block;
+    text-align: center;
+}
+
+nav.template a {
+    text-decoration: none;
+}
+
+nav.template a.activemenu {
+    color: white;
+    background-color: black;
+}
+
+nav.template a:hover {
+    color: greenyellow;
+    background-color: black;
+    font-size: 16px;
+    font-style: bold;
+}
+
+article.template {
+    padding: 5px;
+    text-align: justify;
+}
+
+footer.template {
+    text-align: center;
+}
+
+section.angularproject {
+    border: 3px solid black;
+    width: 900px;
+}
+
+img.header {
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.content-header {
+    display: inline-block;
+    vertical-align: middle;
+}
